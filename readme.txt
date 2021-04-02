@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 Now we are on 'dev' again.
 Try dev no off.
 Try dev w/ ff.
-
+Stash2.
